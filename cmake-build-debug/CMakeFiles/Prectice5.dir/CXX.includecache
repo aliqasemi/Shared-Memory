@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aliqasemi/CLionProjects/Prectice5/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+unistd.h
+-
+sys/mman.h
+-
+sys/shm.h
+-
+sys/stat.h
+-
+

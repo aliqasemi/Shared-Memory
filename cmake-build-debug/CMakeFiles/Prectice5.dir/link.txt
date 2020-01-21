@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Prectice5.dir/producer.cpp.o CMakeFiles/Prectice5.dir/consumer_c1.cpp.o CMakeFiles/Prectice5.dir/consumer_c2.cpp.o  -o Prectice5 

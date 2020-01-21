@@ -1,0 +1,3 @@
+/home/aliqasemi/CLionProjects/Prectice5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aliqasemi/CLionProjects/Prectice5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aliqasemi/CLionProjects/Prectice5/cmake-build-debug/CMakeFiles/Prectice5.dir
